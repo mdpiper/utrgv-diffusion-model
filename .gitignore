@@ -3,3 +3,7 @@
 
 # Images
 *.png
+
+# Building and packaging artifacts
+__pycache__
+*.egg-info
